@@ -1,0 +1,19 @@
+{
+  "name": "programlanguage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plortinus/programlanguage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plortinus/programlanguage/issues"
+  },
+  "homepage": "https://github.com/Plortinus/programlanguage#readme"
+}
